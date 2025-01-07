@@ -1,0 +1,2 @@
+# Mimoi
+Chinese translation
